@@ -3,7 +3,7 @@
 ## Observações iniciais sobre o teste
 
 Foi necessário alterar o endereço ip da api para o funcionamento correto no emulador no caso do WINDOWS.
-A serviço agora é executado no endereço: http://192.168.1.7:5000
+O serviço agora é executado no endereço: http://192.168.1.7:5000
 
 ## Visão Geral
 
