@@ -2,6 +2,11 @@
 
 ## Visão Geral
 
+## Observações iniciais sobre o teste
+
+Foi necessário alterar o endereço ip da api para o funcionamento correto no emulador no caso do WINDOWS.
+A serviço agora é executado no endereço: http://192.168.1.7:5000
+
 Este teste avalia suas habilidades na construção de um aplicativo Flutter que se integra a uma API para autenticação TOTP
 (Time-based One-Time Password). O aplicativo deve seguir o design fornecido no Figma e incluir três páginas principais:
 
@@ -52,7 +57,7 @@ arquivo `api/README.md` localizado no repositório base.
 
 1. Acesse o diretório `api` no repositório base.
 2. Siga as instruções no `README.md` para instalar as dependências e iniciar o servidor.
-3. O servidor deve estar disponível em `http://127.0.0.1:5000`.
+3. O servidor deve estar disponível em `http://192.168.1.7:5000`.
 
 ### Endpoints Disponíveis
 
