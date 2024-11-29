@@ -1,11 +1,12 @@
 # Teste de Desenvolvedor Flutter: Aplicativo de Autenticação TOTP
 
-## Visão Geral
-
 ## Observações iniciais sobre o teste
 
 Foi necessário alterar o endereço ip da api para o funcionamento correto no emulador no caso do WINDOWS.
 A serviço agora é executado no endereço: http://192.168.1.7:5000
+
+## Visão Geral
+
 
 Este teste avalia suas habilidades na construção de um aplicativo Flutter que se integra a uma API para autenticação TOTP
 (Time-based One-Time Password). O aplicativo deve seguir o design fornecido no Figma e incluir três páginas principais:
